@@ -18,7 +18,7 @@ minh:
   focus: [distributed systems, service infra, cloud-native tooling]
   building: [open source contributions, Pokémon card market backtesting engine]
   taught: Python @ Stanford Code in Place (Section Leader)
-  off_the_clock: nước chấm ratios, air fryer experiments, techwear
+  off_the_clock: building gundams, reading books, touching grass
 ```
 
 <br>
