@@ -8,7 +8,7 @@ Hi, I'm Minh, a rising junior @ Drexel SE + minor in Finance. Passionate about b
 * Previously **Software Engineer Intern** @ Bentley Systems, on the Cloud Orchestration team
 * **Research Assistant**, studying performance testing derived from static software architecture and dependency structures — instrumented with Kubernetes and Apache SkyWalking
 * Contributing to open source: [Harbor](https://github.com/goharbor/harbor) and [OpenTelemetry's eBPF instrumentation](https://github.com/open-telemetry/opentelemetry-ebpf-instrumentation)
-* Building a C++ backtesting engine for Pokémon card market prices, for fun
+* Building a Python backtesting engine for Pokémon card market prices, for fun
 * Formerly a Section Leader for Stanford's Code in Place, teaching Python
 
 <br>
