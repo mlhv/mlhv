@@ -23,7 +23,6 @@ Hi, I'm Minh, a rising junior @ Drexel SE + minor in Finance. Passionate about b
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 **Cloud & Infra**
 
@@ -41,9 +40,9 @@ Hi, I'm Minh, a rising junior @ Drexel SE + minor in Finance. Passionate about b
 
 **SocialGym** — event-driven ML pipeline on Kafka; async Python microservice keeps the main thread at 100% availability under heavy load.
 
-**Stylify** — full CRUD service on React+Vite/PostgreSQL, deployed on EC2 with S3-backed media, 99.9% uptime.
+**Stylify** — full CRUD service on React+Vite/PostgreSQL, deployed on AWS Lambda+ECR with S3+Cloudfront, 99.9% uptime.
 
-**Pokémon Card Market Backtester** *(in progress)* — C++ backtesting engine for TCG asset price prediction.
+**Pokémon Card Market Backtester** *(in progress)* — Python backtesting engine for TCG asset price prediction.
 
 <br>
 
