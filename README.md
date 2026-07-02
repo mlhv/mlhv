@@ -1,6 +1,7 @@
-<h1 align="left">Welcome to my github.. 👋</h1>
+<h1 align="left">Hi, I'm Minh 👋</h1>
 
-Hi, I'm Minh, a rising junior @ Drexel SE + minor in Finance. Passionate about backend and distributed systems, integrating agentic tooling into the development cycle, and contributing to opensource/cloud-native tools.
+Software Engineering student at Drexel (minor in Finance), focused on backend and distributed systems — the kind of work that shows up in cloud infra, service reliability, and performance, not the UI.
+
 **What I'm up to:**
 
 * **AI Engineer Intern** @ VisioneerIT
@@ -55,6 +56,21 @@ Hi, I'm Minh, a rising junior @ Drexel SE + minor in Finance. Passionate about b
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mlhv&theme=react-dark&hide_border=true&area=true" alt="Contribution Activity" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/mlhv/mlhv/profile-3d-contrib/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="90%" />
+
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mlhv/mlhv/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/mlhv/mlhv/output/github-contribution-grid-snake.svg" width="90%" />
+</picture>
 
 </div>
 
