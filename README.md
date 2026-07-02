@@ -1,6 +1,6 @@
-<h1 align="left">Hi, I'm Minh 👋</h1>
+<h1 align="left">Welcome to my Github! 👋</h1>
 
-Software Engineering student at Drexel (minor in Finance), focused on backend and distributed systems — the kind of work that shows up in cloud infra, service reliability, and performance, not the UI.
+Hi, I'm Minh, a rising junior @ Drexel SE + minor in Finance. Passionate about backend and distributed systems, integrating agentic tooling into the development cycle, and contributing to opensource/cloud-native tools.
 
 **What I'm up to:**
 
