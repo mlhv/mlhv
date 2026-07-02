@@ -63,7 +63,7 @@ Software Engineering student at Drexel (minor in Finance), focused on backend an
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/mlhv/mlhv/profile-3d-contrib/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="90%" />
+<img src="https://raw.githubusercontent.com/mlhv/mlhv/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="90%" />
 
 <br><br>
 
