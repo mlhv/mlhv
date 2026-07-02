@@ -2,9 +2,9 @@
 
 # Minh Le
 
-`AI Engineer Intern` · `Distributed Systems` · `RAG Pipelines`
+`Backend` · `Distributed Systems` · `Cloud-Native Infra`
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=AI+Engineer+Intern+%40+VisioneerIT;Honors+Software+Engineering+Student;Backend+%26+Cloud-Native+Systems;Quant+Finance+%2B+C%2B%2B+on+the+side" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=AI+Engineer+Intern+%40+VisioneerIT;Prev.+Software+Engineer+Intern+%40+Bentley+Systems;Kubernetes+%2B+Go+%2B+Distributed+Backends;Researching+Perf.+via+Software+Architecture" alt="Typing SVG" />
 
 </div>
 
@@ -13,10 +13,11 @@
 ```yaml
 minh:
   role: AI Engineer Intern @ VisioneerIT
-  focus: [ML pipelines, RAG systems, backend infra]
-  building: open-source capstone w/ Anthropic — backend & distributed systems
+  previously: Software Engineer Intern @ Bentley Systems
+  research: perf. testing via software architecture & dependency structures — K8s + Apache SkyWalking
+  focus: [distributed systems, service infra, cloud-native tooling]
+  building: [open source contributions, Pokémon card market backtesting engine]
   taught: Python @ Stanford Code in Place (Section Leader)
-  tinkering_with: microservice architecture, C++ backtesting engine
   off_the_clock: nước chấm ratios, air fryer experiments, techwear
 ```
 
@@ -28,13 +29,18 @@ minh:
 
 **Languages**
 
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-**Infra**
+**Cloud & Infra**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 </div>
@@ -43,9 +49,33 @@ minh:
 
 ### Projects
 
-**SightLink** — real-time ASL fingerspelling translator, built at Philly Codefest.
+**SocialGym** — event-driven ML pipeline on Kafka; async Python microservice keeps the main thread at 100% availability under heavy load.
 
-**Algorithmic Trading Engine** *(in progress)* — C++ backtester for alternative asset prediction.
+**Stylify** — full CRUD service on React+Vite/PostgreSQL, deployed on EC2 with S3-backed media, 99.9% uptime.
+
+**Pokémon Card Market Backtester** *(in progress)* — C++ backtesting engine for TCG asset price prediction.
+
+<br>
+
+### Research
+
+Research Assistant, working on performance testing derived from static software architecture and dependency structures — instrumented with Kubernetes and Apache SkyWalking.
+
+<br>
+
+### Open Source
+
+Currently contributing to:
+
+**[goharbor/harbor](https://github.com/goharbor/harbor)** — CNCF-graduated container registry for storing, signing, and scanning cloud-native artifacts.
+
+**[open-telemetry/opentelemetry-ebpf-instrumentation](https://github.com/open-telemetry/opentelemetry-ebpf-instrumentation)** — eBPF-based auto-instrumentation for distributed tracing, no code changes required.
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mlhv&theme=react-dark&hide_border=true&area=true" alt="Contribution Activity" />
+
+</div>
 
 <br>
 
