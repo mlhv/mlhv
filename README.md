@@ -60,6 +60,7 @@ minh:
 ### Research
 
 Research Assistant, working on performance testing derived from static software architecture and dependency structures — instrumented with Kubernetes and Apache SkyWalking.
+(under Prof. Cai)
 
 <br>
 
