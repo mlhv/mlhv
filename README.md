@@ -1,25 +1,14 @@
-<div align="center">
+<h1 align="left">Welcome to my github.. 👋</h1>
 
-# Minh Le
+I'm a rising junior @ Drexel SE + minor in Finance. Passionate about backend and distributed systems, integrating agentic tooling into the development cycle, and contributing to opensource/cloud-native tools.
+**What I'm up to:**
 
-`Backend` · `Distributed Systems` · `Cloud-Native Infra`
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=AI+Engineer+Intern+%40+VisioneerIT;Prev.+Software+Engineer+Intern+%40+Bentley+Systems;Kubernetes+%2B+Go+%2B+Distributed+Backends;Researching+Perf.+via+Software+Architecture" alt="Typing SVG" />
-
-</div>
-
-<br>
-
-```yaml
-minh:
-  role: AI Engineer Intern @ VisioneerIT
-  previously: Software Engineer Intern @ Bentley Systems
-  research: perf. testing via software architecture & dependency structures — K8s + Apache SkyWalking
-  focus: [distributed systems, service infra, cloud-native tooling]
-  building: [open source contributions, Pokémon card market backtesting engine]
-  taught: Python @ Stanford Code in Place (Section Leader)
-  off_the_clock: building gundams, reading books, touching grass
-```
+* **AI Engineer Intern** @ VisioneerIT
+* Previously **Software Engineer Intern** @ Bentley Systems, on the Cloud Orchestration team
+* **Research Assistant**, studying performance testing derived from static software architecture and dependency structures — instrumented with Kubernetes and Apache SkyWalking
+* Contributing to open source: [Harbor](https://github.com/goharbor/harbor) and [OpenTelemetry's eBPF instrumentation](https://github.com/open-telemetry/opentelemetry-ebpf-instrumentation)
+* Building a C++ backtesting engine for Pokémon card market prices, for fun
+* Formerly a Section Leader for Stanford's Code in Place, teaching Python
 
 <br>
 
@@ -57,16 +46,7 @@ minh:
 
 <br>
 
-### Research
-
-Research Assistant, working on performance testing derived from static software architecture and dependency structures — instrumented with Kubernetes and Apache SkyWalking.
-(under Prof. Cai)
-
-<br>
-
 ### Open Source
-
-Currently contributing to:
 
 **[goharbor/harbor](https://github.com/goharbor/harbor)** — CNCF-graduated container registry for storing, signing, and scanning cloud-native artifacts.
 
