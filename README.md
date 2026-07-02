@@ -1,6 +1,6 @@
 <h1 align="left">Welcome to my github.. 👋</h1>
 
-I'm a rising junior @ Drexel SE + minor in Finance. Passionate about backend and distributed systems, integrating agentic tooling into the development cycle, and contributing to opensource/cloud-native tools.
+Hi, I'm Minh, a rising junior @ Drexel SE + minor in Finance. Passionate about backend and distributed systems, integrating agentic tooling into the development cycle, and contributing to opensource/cloud-native tools.
 **What I'm up to:**
 
 * **AI Engineer Intern** @ VisioneerIT
