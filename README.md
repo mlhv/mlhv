@@ -33,6 +33,12 @@ Hi, I'm Minh, a rising junior @ Drexel SE + minor in Finance. Passionate about b
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badgelogo=mysql&logoColor=fff)
+![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badgelogo=postgresql&logoColor=white)
+
+
 </div>
 
 <br>
