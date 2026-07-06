@@ -30,7 +30,7 @@ Hi, I'm Minh, a rising junior @ Drexel SE + minor in Finance. Passionate about b
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=aws&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Azure DevOps](https://custom-icon-badges.demolab.com/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azure-devops-white&logoColor=fff)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=fff)
 
 **Databases**
