@@ -4,8 +4,9 @@ Hi, I'm Minh, a rising junior @ Drexel SE + minor in Finance. Passionate about b
 
 **What I'm up to:**
 
-* **AI Engineer Intern** @ VisioneerIT
 * Previously **Software Engineer Intern** @ Bentley Systems, on the Cloud Orchestration team
+* Previously **Software Engineer Intern** @ VisioneerIT, on the AI Operations team
+* TA for CS281 (systems architecture) and CS387 (game AI development)
 * **Research Assistant**, studying performance testing derived from static software architecture and dependency structures — instrumented with Kubernetes and Apache SkyWalking
 * Contributing to open source: [Harbor](https://github.com/goharbor/harbor) and [OpenTelemetry's eBPF instrumentation](https://github.com/open-telemetry/opentelemetry-ebpf-instrumentation)
 * Building a Python backtesting engine for Pokémon card market prices, for fun
